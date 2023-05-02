@@ -1,16 +1,16 @@
 == Consumers need to be more vigilant, following recent zero-click exploits
-+
+
 
 
 _Sharmila Ganapathy_ sharmilagw@gmail.com
 
-+
+
 
 *Date: September 24, 2021*
 
 image::https://pixabay.com/get/g6192a4f5697b1d2b193c1bcf4a9e8514844675c1643e12c9070e8e7b62aa6b19a6e66c2c44848712b95bea07fe5e426339d1cf8a6638d727661f67491f7fd85b5c8eb82306b9f1ef220ca7793c221746_1280.jpg[]
 
-+
+
 
 A few weeks ago, Apple iPhone users found their data compromised following a security exploit in the phone’s zero-click feature. 
 
