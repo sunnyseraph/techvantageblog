@@ -1,0 +1,59 @@
+== Consumers need to be more vigilant, following recent zero-click exploits
++
+
+
+_Sharmila Ganapathy_ sharmilagw@gmail.com
+
++
+
+*Date: September 24, 2021*
+
+image::https://pixabay.com/get/g6192a4f5697b1d2b193c1bcf4a9e8514844675c1643e12c9070e8e7b62aa6b19a6e66c2c44848712b95bea07fe5e426339d1cf8a6638d727661f67491f7fd85b5c8eb82306b9f1ef220ca7793c221746_1280.jpg[]
+
++
+
+A few weeks ago, Apple iPhone users found their data compromised following a security exploit in the phone’s zero-click feature. 
+
+The real question is: how do consumers stay vigilant, while enjoying the ease of use and convenience that apps provide?
+
+In the following interview, Tim Mackey, Principal Security Strategist of Synopsys Cybersecurity Research Centre and Gary Gardiner, Head of Security Engineering, APAC & Japan, Check Point Software Technologies, provide some insights and solutions.
+
+*TechVantage (TV): Apple’s recent zero-click security exploit has raised concerns about the viability of apps with zero-click functions. Yet, users want ease of use when it comes to their devices. Is there a place for zero-click apps or are they just a bad idea? Why?*
+
+*Tim:* Any application that can be deployed without user knowledge or consent is by definition problematic. While some users might have a device that is managed by their employer, and which contains apps that they didn’t expressly authorise, that authorisation and approval were made by their employer for installation on a device actively managed by the employer. Zero-click is different in that no authorisation was performed and instead the app was automatically, and transparently, downloaded.
+
+*Gary:* This is an age-old battle between security and functionality. Users want applications to be as easy to use as possible. Zero-click functions in apps allow this to become a reality. However, taking the decision out of the hands of the users (to click on a link or not) is more of a risk.
+
+As an example, the 2019 vulnerability in WhatsApp was based on a missed call which allowed for the installation of malware. Users are getting more educated and better at identifying a suspicious email/ spam/ phishing attack, so anything that removes this check will put you at greater risk.
+
+*TV: For the benefit of our readers, please explain the flaws in zero-click apps and the consequences to the end user.* 
+
+*Tim:* A zero-click app is any app that can be installed without the knowledge, authorisation, or consent of the owner or user of the device. Such installation often requires the use of vulnerabilities in either the operating system or within a third-party application. 
+
+Since these apps are being installed outside of user control, and potentially through weaknesses in systems or applications, they have the potential to access user data and potentially impersonate the user. This makes their usage particularly problematic, as users wouldn’t be aware of the application and as such be able to configure it to their preferences.
+
+*Gary:* In the past, attackers relied on deceiving a user on clicking a link to download or execute a malware installation. However, zero-click apps remove the need for this — attackers can use a vulnerability in the app to execute malware on the device without the user knowing that it has happened, and that the malware is running on their devices. 
+
+One such malware example is Pegasus — a highly sophisticated zero-day spyware which targets Android and iOS mobile devices, turning the device into a spying tool.
+
+*TV: If consumers want to continue using zero-click apps, what should device manufacturers do to ensure that the apps and devices are more secure? Or should they do away with zero-click apps altogether? Why?*
+
+*Tim:* It’s important to differentiate between pre-installed apps as provided by a device manufacturer and a zero-click app that is installed without user interaction. 
+
+While some might argue that pre-installed apps represent a risk, properly securing them is a task that a device manufacturer can define security standards for. 
+
+Such controls aren’t possible for a zero-click app authored by third parties, and given the stealth nature of a zero-click app, the app’s authors might prioritise stealth over security.
+
+*Gary:* The easiest way to prevent this is to ensure that the code we are running is secure. Developers need to look at the code and how it is written, checked and deployed. 
+
+Do we need zero-click apps? Yes, there will be some applications that will require this functionality. We do know now that it is more difficult to execute zero-click vulnerabilities and in the meantime, attackers are still using the old method of attacks. However, this could change in the future and we need to get ahead of this with more rigorous code development.
+
+*TV: What, in your opinion, is the better security alternative to zero-click apps? Why? Kindly elaborate.*
+
+*Gary:* The fundamental issue is that the malware is executing a vulnerability in the application. Whether it is a click or zero-click app, the issue remains the same — the code is vulnerable to attack. Limiting this with good anti-malware on the device will always help to reduce these issues.
+
+*TV: What can consumers do to better protect themselves with regard to the above? Kindly provide three to five tips.* 
+
+*Gary:* Keep your applications up-to-date. Ensure that the OS is also kept up-to-date, and remove any unused/unwanted applications. Lastly, install a good security application on your device.
+
+_Originally published on: https://thetechvantage.net_
