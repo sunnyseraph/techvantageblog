@@ -1,0 +1,79 @@
+== Dell Technologies is Helping Businesses Create More Resilient Workforces
+
+
+_By Sharmila Ganapathy_
+
+*Date: January 6, 2021*
+
++
+
+image::https://pixabay.com/get/g7c00c9e2e9c9192f7fb5768e48601ce76b0d51c5cf47eba91e827b34add4bcc99357901850bd91df58d4c3d61df403e693dbd401a47852d60692c97e52e67a1b3035a3e8536f6d5bf172cb4027af20d3_1280.jpg[]
+
+
++
+
+The Covid-19 pandemic has turned the lives of many topsy-turvy and forced businesses to disrupt themselves, in order to survive in a tougher global business environment. 
+
+“The health crisis we are facing is unprecedented in our generation. The world is going through tremendous changes, impacting every aspect of life. As a technology company, Dell Technologies has had a front-row seat to the overnight digital transformation of our world and the drastic changes to how we work. 
+
+It has been especially difficult for organisations as they struggle to cope with the fallout from the pandemic—having no reference point, no playbook to turn to for guidance,” said Dell Technologies country manager for Malaysia KT Ong in a recent interview. 
+
+He noted that the biggest challenge for businesses has been the need to innovate almost instantaneously—scrambling to find new ways to keep the workforce motivated and productive, while ensuring services to customers remain uninterrupted. 
+
+“Organisations need to find the right tools and solutions to help transition to a way of doing business that is heavily dependent on technology, but before that, they must have the resources to make those investments. We share our customers’ frustrations and understand the experience has been an uncomfortable—but necessary one—to keep their business and livelihoods intact.” 
+
+Ong said that Dell believes work is not anchored to a specific place or time, but instead focused on outcomes. “What we have done differently, besides using our values and technology to develop new ways of work, is take a team member-centric approach, informed by data, to make responsible decisions.”
+
+“During this pandemic, we are well placed, with all our experience, to help organisations through their own remote workforce implementation. We have been sharing our remote and flexible work expertise and best practices with customers and partners around the world to make it as seamless as possible for them, as it was for us,” he added. 
+
+=== Thought leadership at the fore 
+
+According to Ong, what set Dell Technologies apart during the Covid-19 lockdowns was their return to site (RTS) strategy. “First and most importantly: the health and safety of local communities, including our team members, customers and partners, has always been the top priority, and this has guided our decision making. Our three-part phased approach to returning to each Dell site considers each facility’s capacity, local government regulations and our own data science and risk model (among other factors) to determine safety and readiness to return to and remain onsite, and prioritising team members’ roles that have a need to be onsite.”
+
+At the heart of this strategy is Dell’s Inversed Risk Matrix, an internal tool the company developed with its very own Dell data scientists, in partnership with medical professionals, to help make sense of all the health data—the number of infections, hospitalisations, hotspots and so on—to make informed decisions on reopening sites. 
+
+“Not only is this tool helping us return to site safely, it is helping us remain on site safely and make other decisions about/ travel, events, etc. This is coupled with a phased approach to bringing team members back to site, tiering them based on roles and responsibilities with a priority on those who can be more productive on-site or have challenges working from home. 
+
+When a site is safe to open, we follow local regulations and hygiene practices for site readiness involving deep cleaning, social distancing, masks when mobile, on-going cleaning and so on.”
+
+“The second innovation is not really ‘new’, but a company culture that has been the cornerstone of how we define work. Dell Technologies’ longstanding leadership in flexible work—even more relevant and fitting as we navigate through Covid-19 —is evidenced by our Connected Workplace programme, a strategic business initiative that was launched more than a decade ago.”
+
+He explained that Connected Workplace allows team members to choose the work style that best fulfils their needs on the job, and in life, in a highly mobile, collaborative and flexible work setting. 
+
+“The programme has positively impacted our business, our approach to talent acquisition and our environmental footprint. We now have an opportunity to further reinvent and redefine work as we expand Connected Workplace to enable new ways of working in a post-Covid-19 world.”
+
+=== Providing real solutions to businesses
+
+As Ong pointed out, the pandemic left organisations having to adapt quickly, and that means getting technology to help them make those transformational pivots such as transitioning to a remote workforce—freeing up their time to actually run the business. The Movement Control Order (MCO) and the Recovery MCO (RMCO), which is currently in effect—have curtailed the ability of many businesses to operate at full capacity. 
+
+“We understand the gravity of the situation for some of our customers and are committed to ensuring they receive uninterrupted, and in some cases expedited, service during this time. Customer tech support for remote diagnostics and resolution remained in operations, while business-critical deployments—which would normally take weeks—were prioritised and delivered in days,” Ong explained.
+
+“The world of long-term/permanent remote work policies is closer to reality than we think, and it is an area we are helping customers with. Dell Technologies Unified Workspace is a one-stop shop platform that is perfectly tailored to support a remote workforce—from deployment, security, management, to IT support and the latest intelligent devices.
+
+“What makes it particularly unique is that it integrates solutions across Dell devices and services, VMware and Secureworks, providing a unified solution rooted in automation and intelligence. The platform streamlines processes and provides automation and visibility across the entire endpoint environment, simplifying IT for businesses.”
+
+Ong added that Dell’s PC innovations are also revolutionising the way devices are learning and responding to the way we work, wherever and whenever that may be.
+
+“The Dell Latitude, Precision and OptiPlex portfolio of notebooks, desktops and workstations now come with built-in Artificial Intelligence (AI) and cutting-edge innovations that intuitively analyse and adjust to the way you work for a seamless PC experience.”
+
+“We also understand that financing digital transformation during this challenging time can be an uphill task as companies focus on business continuity and critical operations, while needing to preserve cash flow. Dell Financial Services (DFS), part of Dell Technologies, provides innovative payment and consumption solutions that supports business of all sizes to finance their technology needs.”
+
+In May 2020, Dell announced a Payment Flexibility Program comprising various customisable offers to help customers in Malaysia manage cash flow and preserve capital while providing them with access to essential technology. This programme enables customers to navigate these times without disruption to the implementation of their IT strategies.
+
+=== Some salient advice for SMEs and SMBs
+
+How would he advise SMEs and SMBs in Malaysia who want more resilient remote workforces? “In a nutshell: the remote workforce is here to stay, so start planning/strategising for it now! Organisations—small, medium or large —across a variety of industries where day-to-day work is predominantly done on a PC should expect expanded work from home policies to remain in place long term or permanently. 
+
+For businesses looking to implement a successful remote work strategy, Ong said they should consider the following:
+
+•	*First, do it light.* For most, remote working arrangements/policies are already in place, in some way, shape or form. Quickly expand the work from home strategy, giving employees that can do so the ability to be productive and connected with secure, stable systems. 
+
+•	*Next, make sure to do it right.* Give employees the right mix of technology and balance to enable the best remote work experience for the long-term. This requires organisations to re-evaluate and evolve their IT strategy to cater to the needs of the workforce, for example device lifecycle management and virtual desktop infrastructure capabilities.
+
+•	*Third, drive further innovation to create the best work from home experience.* Give employees the ability to do their best work from anywhere in the world with applications and services they need—just as powerful if not better than what they would have experienced in the office—to achieve the best outcomes.
+
+Ong also emphasised that a flexible work culture, combined with the right technology, can unleash innovation. 
+
+“A crisis like Covid-19 gives organisations an edge. And this approach has added benefits—an improved work-life balance means a more productive, happier workforce, and the company becomes a more attractive proposition for future talent. Never underestimate what a motivated and inspired workforce can achieve for the business!” he concluded. 
+
+_Originally published at: https://thetechvantage.net_
